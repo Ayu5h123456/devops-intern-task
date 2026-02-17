@@ -1,0 +1,11 @@
+{
+  "name": "devops-intern-app",
+  "version": "1.0.0",
+  "description": "Simple Node.js app for DevOps Intern Task",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Ayush Gade",
+  "license": "ISC"
+}
